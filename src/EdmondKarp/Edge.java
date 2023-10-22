@@ -1,3 +1,5 @@
+package EdmondKarp;
+
 public class Edge {
     private Node toNode;
     private Edge nextEdge;

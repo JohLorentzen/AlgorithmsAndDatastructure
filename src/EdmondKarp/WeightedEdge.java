@@ -1,4 +1,6 @@
-    /**
+package EdmondKarp;
+
+/**
      * Class represents a weighted edge in a graph and extends the class edge.
  * @author johanneslorentzen
  */

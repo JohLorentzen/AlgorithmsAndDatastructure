@@ -1,3 +1,5 @@
+package EdmondKarp;
+
 public class Queue {
     private Object[] array;
     private int first = 0;

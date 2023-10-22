@@ -1,3 +1,5 @@
+package EdmondKarp;
+
 public class PreviousNode {
     private int distance;
     private Node preNode;

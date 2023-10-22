@@ -1,3 +1,5 @@
+package EdmondKarp;
+
 public class WeightedEdgeTable {
     private int exists;
     private int weight;
